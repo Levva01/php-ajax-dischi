@@ -8,7 +8,7 @@ foreach ($database as $disco) {
 
     foreach($disco as $key => $value){
         echo "<br>";
-        echo "$key => $value <br>";
+        echo "$key => $value";
         echo "<br>";
     }
     echo "<br>";
